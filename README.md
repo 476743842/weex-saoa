@@ -21,5 +21,20 @@ weex-saoa 是基于 weex 封装面向前端的 vue 写法的解决方案由于 a
 
 <img src="https://github.com/qq476743842/image/blob/master/app/appcenter.png?raw=true" width=300/> <img src="https://github.com/qq476743842/image/blob/master/app/appcenter2.png?raw=true" width=300/>
 
+4.通讯录
+
+<img src="https://github.com/qq476743842/image/blob/master/app/tx.png?raw=true" width=300/>
+
+5.我的页
+
+<img src="https://github.com/qq476743842/image/blob/master/app/my.png?raw=true" width=300/>  <img src="https://github.com/qq476743842/image/blob/master/app/myinfo.png?raw=true" width=300/>  <img src="https://github.com/qq476743842/image/blob/master/app/action.png?raw=true" width=300/>
+
+6.主题设置
+
+<img src="https://github.com/qq476743842/image/blob/master/app/zt.png?raw=true" width=300/>
+
+7.公共搜索页
+
+<img src="https://github.com/qq476743842/image/blob/master/app/sousuo.png?raw=true" width=300/>
 
 
