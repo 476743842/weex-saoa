@@ -27,14 +27,39 @@ weex-saoa 是基于 weex 封装面向前端的 vue 写法的解决方案由于 a
 
 5.我的页
 
-<img src="https://github.com/qq476743842/image/blob/master/app/my.png?raw=true" width=300/>  <img src="https://github.com/qq476743842/image/blob/master/app/myinfo.png?raw=true" width=300/>  <img src="https://github.com/qq476743842/image/blob/master/app/action.png?raw=true" width=300/>
+<img src="https://github.com/qq476743842/image/blob/master/app/my.png?raw=true" width=250/>  <img src="https://github.com/qq476743842/image/blob/master/app/myinfo.png?raw=true" width=250/>  <img src="https://github.com/qq476743842/image/blob/master/app/action.png?raw=true" width=250/>
 
 6.主题设置
 
 <img src="https://github.com/qq476743842/image/blob/master/app/zt.png?raw=true" width=300/>
 
-7.公共搜索页
+7.公共页
 
-<img src="https://github.com/qq476743842/image/blob/master/app/sousuo.png?raw=true" width=300/>
+<img src="https://github.com/qq476743842/image/blob/master/app/sousuo.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/password.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/msgset.png?raw=true" width=250 />  
+
+8.关于页
+
+<img src="https://github.com/qq476743842/image/blob/master/app/about.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/as.png?raw=true" width=250 />
+
+9.反馈页面
+
+<img src="https://github.com/qq476743842/image/blob/master/app/fk.png?raw=true" width=300 />
+
+10.二维码下载
+
+<img src="https://github.com/qq476743842/image/blob/master/app/download.png?raw=true" width=300 />
+
+11.帮助中心
+
+<img src="https://github.com/qq476743842/image/blob/master/app/help.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/web-help.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/web-test.png?raw=true" width=250 />  
+
+12.日报功能
+
+<img src="https://github.com/qq476743842/image/blob/master/app/daily.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/daily2.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/o-daily.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/o-daily2.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/detail-day.png?raw=true" width=250 />
+
+
+
+
+
 
 
