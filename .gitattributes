@@ -1,1 +1,4 @@
-*.vue linguist-language=weex 
+*.vue linguist-language=Vue
+*.js linguist-language=Vue
+*.css linguist-language=Vue
+*.html linguist-language=Vue
