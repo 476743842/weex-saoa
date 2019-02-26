@@ -57,9 +57,21 @@ weex-saoa 是基于 weex 封装面向前端的 vue 写法的解决方案由于 a
 
 <img src="https://github.com/qq476743842/image/blob/master/app/daily.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/daily2.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/o-daily.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/o-daily2.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/detail-day.png?raw=true" width=250 />
 
+13.通知公告
 
+<img src="https://github.com/qq476743842/image/blob/master/app/notice-list.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/notice-data.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/notice-detail.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/yue-list.png?raw=true" width=250 />
 
+14.新闻资讯
 
+<img src="https://github.com/qq476743842/image/blob/master/app/news.png?raw=true" width=250 />  <img src="https://github.com/qq476743842/image/blob/master/app/news-detail.png?raw=true" width=250 /> 
+
+15.消息demo
+
+<img src="https://github.com/qq476743842/image/blob/master/app/msg-demo.png?raw=true" width=250 /> 
+
+16.文档demo
+
+<img src="https://github.com/qq476743842/image/blob/master/app/files.png?raw=true" width=250 /> 
 
 
 
