@@ -1,4 +1,4 @@
-<!-- by:zj 2018/4/18
+<!-- by:Jie. 2018/4/18
     @param show           [Boolean]  显示隐藏对话框,默认值为false
     @param title          [String]   对话框标题
     @param content        [String]   对话框显示内容

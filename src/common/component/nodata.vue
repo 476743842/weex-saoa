@@ -1,4 +1,4 @@
-<!-- by:zj 2018/5/8
+<!-- by:Jie. 2018/5/8
     @param type  [文本型] 默认值为 icon , 代表是要显示字体图标还是图片
     @param imgsrc [文本型] 如果type为 img 类型 , 需要设置imgsrc的图片地址
     @param iconStyle [对象] 设置icon的字体图标样式或者图片的宽度高度 如：

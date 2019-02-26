@@ -1,4 +1,4 @@
-<!-- by:zj 2018/4/18
+<!-- by:Jie. 2018/4/18
     @param topBorder      [Boolean]  是否显示上边框
     @param bottomBorder   [Boolean]  是否显示下边框
     @param hasArrow       [Boolean]  是否显示右侧小箭头按钮

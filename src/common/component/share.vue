@@ -1,4 +1,4 @@
-<!-- by:zj 2018/4/18
+<!-- by:Jie. 2018/4/18
     @param items  [数组类型]按钮的数据,格式为:
         [{
         type:"icon",     //类型分为[icon],[image]两种类型

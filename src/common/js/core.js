@@ -1,3 +1,7 @@
+/**
+  *By Jie. 2018/04/08
+  *核心js库
+  **/
 const localpath = "http://192.168.1.88:8080/";
 //const localpath = "http://120.27.26.19:9527/";
 //const rootPath = "http://192.168.1.88:8089/bsys";
