@@ -10,4 +10,4 @@ weex-saoa 是基于 weex 封装面向前端的 vue 写法的解决方案由于 a
 
 1.登录界面
 
-<img src="https://github.com/qq476743842/image/blob/master/app/login.png?raw=true" width=200/>
+<img src="https://github.com/qq476743842/image/blob/master/app/login.png?raw=true" width=300/>
