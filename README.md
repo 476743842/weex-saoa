@@ -4,13 +4,16 @@ weex-saoa 是基于 weex 封装面向前端的 vue 写法的解决方案由于 a
 
 ## 体验
 
-安卓端
-
-<img src="https://raw.githubusercontent.com/qq476743842/image/master/download/android.png" width=200/>
-
-IOS端
-
-<img src="https://raw.githubusercontent.com/qq476743842/image/master/download/ios.png" width=200/>
+<div style="flex-direction: row;display: flex;">
+  <div style="flex:1;">
+    <img src="https://raw.githubusercontent.com/qq476743842/image/master/download/android.png" width=200/>
+    <div>Android端</div>
+  </div>
+  <div style="flex:1;">
+    <img src="https://raw.githubusercontent.com/qq476743842/image/master/download/ios.png" width=200/>
+    <div>IOS端</div>
+  </div>
+</div>
 
 # Header 1
 ## Header 2
