@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+## 前言
 
-You can use the [editor on GitHub](https://github.com/qq476743842/weex-oa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+weex-saoa 是基于 weex 封装面向前端的 vue 写法的解决方案由于 app 开发的特殊性，weex-saoa 则更偏重关心于整个 app 项目
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 体验
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
