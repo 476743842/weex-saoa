@@ -1,39 +1,52 @@
-# Created by .ignore support plugin (hsz.mobi)
-*.iml
-.project
-.settings/
+# Prerequisites
+*.d
 
-# logs
-*.log
-.idea
-npm-debug.log*
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
 
-# dependencies
-/node_modules
+# Linker output
+*.ilk
+*.map
+*.exp
 
-# cache files
-.DS_Store
-.npm
+# Precompiled Headers
+*.gch
+*.pch
 
-# middle compile files
-/src/sprites/*
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
 
-# build results
-#/pub/
-#/entry/
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
 
-# local configs
-lauch.json
-.vscode
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
 
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
 
-#nei
-/mock/
-/plugins/*
-/platforms/*
-/dist/
-/temp/
-assets/tools/
-
-!/platforms/README.md
-!/plugins/README.md
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
